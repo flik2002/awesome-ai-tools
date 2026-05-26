@@ -574,6 +574,23 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
 
+
+## OpenClaw Monitor
+
+⭐ **Real-time AI Agent Monitoring Dashboard for OpenClaw**
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+### Features
+- **Real-time Monitoring**: Live Gateway connection and session status
+- **Token Statistics**: Track prompt/completion tokens with visual charts
+- **Multi-Agent Support**: Monitor multiple OpenClaw agents simultaneously
+- **7-Day Trends**: Message volume and token usage history
+- **WebSocket-based**: Instant updates without page refresh
+
+### Links
+- GitHub: https://github.com/flik2002/openclaw-monitor
+
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
